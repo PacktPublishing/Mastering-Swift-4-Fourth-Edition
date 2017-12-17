@@ -26,5 +26,3 @@ To follow along with the examples in this book, you'll need to have an Apple com
 
 * [Salesforce CRM - The Definitive Admin Handbook - Fourth Edition](https://www.packtpub.com/big-data-and-business-intelligence/salesforce-crm-definitive-admin-handbook-fourth-edition?utm_source=github&utm_medium=repository&utm_campaign=9781786468963)
 
-### Suggestions and Feedback
-[Click here](https://docs.google.com/forms/d/e/1FAIpQLSe5qwunkGf6PUvzPirPDtuy1Du5Rlzew23UBp2S-P3wB-GcwQ/viewform) if you have any feedback or suggestions.
