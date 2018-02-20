@@ -1,7 +1,16 @@
 # Swift 4.0
 ## Mastering Swift 4 - Fourth Edition
-Dive into the latest release of the Swift programming language with this advanced development book for building highly performing applications<br/>
+
+<p style="float: left;>Dive into the latest release of the Swift programming language with this
+advanced development book for building highly performing applications<img style="float: right;" src="Images/1.png"></p>
+
 ![ ](Images/1.png)
+
+| | |
+|-|-|
+| Dive into the latest release of the Swift programming language with this advanced development book for building highly performing applications| ![ ](Images/1.png) |
+
+
 ## What is this book about?
 Swift is the definitive language for Apple development today. It's a vital part of any iOS and macOS developer's skillset, helping them to build the most impressive and popular apps on the App Store—the sort of apps that are essential to iPhone and iPad users every day. With version 4.0, the Swift team has added new features to improve the development experience, making it easier to get the results you want and customers expect.
 Inside, you'll find the key features of Swift 4.0 and quickly learn how to use the newest updates to your development advantage. From Objective-C interoperability and ARC to closures and concurrency, this advanced Swift guide will develop your expertise and help you become fluent in this vital programming language.
