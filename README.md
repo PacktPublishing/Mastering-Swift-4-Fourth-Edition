@@ -1,5 +1,6 @@
+<img align="right" width="15%" height="15%" src="Images/1.png">
+
 # Swift 4.0
-<img align="right" width="100" height="100" src="Images/1.png">
 
 ## Mastering Swift 4 - Fourth Edition
 
