@@ -30,10 +30,8 @@ This book is for developers who want to delve into the newest version of Swift. 
 *	Make use of Swift’s error handling and availability features to write safer code
 
 ## Amazon Reviews
-<img align="left" width="100%" height="30%" src="Images/2.png">
-<img align="left" width="100%" height="30%" src="Images/3.png">
-![ ](Images/2.png)
-![ ](Images/3.png)
+<img align="left" width="100%" height="100%" src="Images/2.png">
+<img align="left" width="100%" height="100%" src="Images/3.png">
 
 ## Where can you buy this book?
 *	Amazon -https://www.amazon.com/Mastering-Swift-depth-comprehensive-programming-ebook/dp/B073WGJ566
