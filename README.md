@@ -6,8 +6,8 @@ advanced development book for building highly performing applications<img style=
 
 ![ ](Images/1.png)
 
-| | |
-|-|-|
+|   |   |
+|---|---|
 | Dive into the latest release of the Swift programming language with this advanced development book for building highly performing applications| ![ ](Images/1.png) |
 
 
