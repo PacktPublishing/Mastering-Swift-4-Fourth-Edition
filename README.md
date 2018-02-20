@@ -1,6 +1,7 @@
-# Mastering Swift 4 - Fourth Edition
-Dive into the latest release of the Swift programming language with this advanced development book for building highly performing applications
-
+# Swift 4.0
+## Mastering Swift 4 - Fourth Edition
+Dive into the latest release of the Swift programming language with this advanced development book for building highly performing applications<br/>
+![ ](Images/1.png)
 ## What is this book about?
 Swift is the definitive language for Apple development today. It's a vital part of any iOS and macOS developer's skillset, helping them to build the most impressive and popular apps on the App Store—the sort of apps that are essential to iPhone and iPad users every day. With version 4.0, the Swift team has added new features to improve the development experience, making it easier to get the results you want and customers expect.
 Inside, you'll find the key features of Swift 4.0 and quickly learn how to use the newest updates to your development advantage. From Objective-C interoperability and ARC to closures and concurrency, this advanced Swift guide will develop your expertise and help you become fluent in this vital programming language.
@@ -34,8 +35,8 @@ This book is for developers who want to delve into the newest version of Swift. 
 *	Packt- https://www.packtpub.com/application-development/mastering-swift-4-fourth-edition?utm_source=github&utm_medium=authorengagement&utm_campaign=9781788477802
 
 ## Get to Know the Author
-Jon Hoffman
-
+Jon Hoffman<br/>
+![ ](Images/4.png)<br/>
 Jon Hoffman has over 25 years of experience in the field of information technology. Over these years, Jon has worked in the areas of system administration, network administration, network security, application development, and architecture. Currently, Jon works as a senior software engineer for Syn-Tech Systems.
 
 Jon has developed extensively for the iOS platform since 2008. This includes several apps that he has published in the App Store, apps that he has written for third parties, and numerous enterprise applications. He has also developed mobile applications for the Android and Windows platforms. What really drives Jon the challenges that the field of information technology provides and there is nothing more exhilarating to him than overcoming a challenge.
