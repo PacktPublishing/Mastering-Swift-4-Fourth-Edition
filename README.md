@@ -35,7 +35,7 @@ This book is for developers who want to delve into the newest version of Swift. 
 
 ## Where can you buy this book?
 
-* **Amazon**: [Mastering Swift 4 - Fourth Edition](https://www.amazon.com/Mastering-Swift-depth-comprehensive-programming-ebook/dp/B073WGJ566)
+* **Amazon**: [Mastering Swift 4 - Fourth Edition](http://bit.ly/Mastering-Swift-4-Fourth-Edition)
 
 *	**Packt**: [Mastering Swift 4 - Fourth Edition](https://www.packtpub.com/application-development/mastering-swift-4-fourth-edition?utm_source=github&utm_medium=authorengagement&utm_campaign=9781788477802)
 
