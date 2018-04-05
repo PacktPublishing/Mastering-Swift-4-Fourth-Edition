@@ -1,4 +1,4 @@
-// Playground - noun: a place where people can play
+//: Playground - noun: a place where people can play
 
 import Cocoa
 
@@ -20,3 +20,4 @@ if (x == 1) && (y == 1) && (z == 1) {
 if x == 1 && y == 1 && z == 1 {
     print("All vars == 1")
 }
+

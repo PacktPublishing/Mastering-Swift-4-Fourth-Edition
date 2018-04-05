@@ -1,6 +1,6 @@
-// Playground - noun: a place where people can play
+ //: Playground - noun: a place where people can play
 
-import UIKit
+import Cocoa
 
 //The i block
 var i=1
@@ -13,4 +13,5 @@ var j = 1
 if j == 1 {
     print("HI")
 }
+
 

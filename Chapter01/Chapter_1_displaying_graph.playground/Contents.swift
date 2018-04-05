@@ -2,5 +2,7 @@
 
 import Cocoa
 
-print("Hello from Swift")
-print("Hello from Swift");
+var j = 1
+for i in 1...5 {
+    j *= i
+}
